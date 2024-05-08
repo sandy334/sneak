@@ -10,16 +10,16 @@ export const Footer = () => {
 
   return (
     <div className="footer">
-      <small> &copy; {copyrightYear} Kartik Shettar </small>
+      <small> &copy; {copyrightYear} Sandesh HR </small>
       <div className="social-links">
-        <Link to="https://www.instagram.com/kartik_shettar_" target="_blank">
+        <Link to="https://www.instagram.com/sandesh_3_3_4/" target="_blank">
           <BsInstagram />
         </Link>
-        <Link to="https://github.com/kartik-fsd" target="_blank">
+        <Link to="https://github.com/sandy334" target="_blank">
           <ImGithub />
         </Link>
         <Link
-          to="https://www.linkedin.com/in/kartik-shettar-dev"
+          to="https://www.linkedin.com/in/sandesh-hr-146886191/"
           target="_blank"
         >
           <SiLinkedin />
